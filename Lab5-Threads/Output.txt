@@ -1,0 +1,24 @@
+
+File Name                 Readable             Writable             Executable           Last Modified        Path                           
+settings.json             | true            |  true            |  true            | 2024-09-09 16:21:57  | C:\Users\nf506\OneDrive\Documents\Java-project\CPIT-305\TestLab\stream1\.vscode\settings.json 
+
+App.class                 | true            |  true            |  true            | 2024-10-05 14:39:46  | C:\Users\nf506\OneDrive\Documents\Java-project\CPIT-305\TestLab\stream1\bin\App.class 
+
+LAB3.class                | true            |  true            |  true            | 2024-10-04 20:31:09  | C:\Users\nf506\OneDrive\Documents\Java-project\CPIT-305\TestLab\stream1\bin\LAB3.class 
+
+eee.txt                   | true            |  true            |  true            | 2024-10-02 22:11:43  | C:\Users\nf506\OneDrive\Documents\Java-project\CPIT-305\TestLab\stream1\eee.txt 
+
+employee.txt              | true            |  true            |  true            | 2024-10-02 19:26:03  | C:\Users\nf506\OneDrive\Documents\Java-project\CPIT-305\TestLab\stream1\employee.txt 
+
+README.md                 | true            |  true            |  true            | 2024-09-09 16:21:57  | C:\Users\nf506\OneDrive\Documents\Java-project\CPIT-305\TestLab\stream1\README.md 
+
+App.class                 | true            |  true            |  true            | 2024-09-28 13:50:17  | C:\Users\nf506\OneDrive\Documents\Java-project\CPIT-305\TestLab\stream1\src\App.class 
+
+App.java                  | true            |  true            |  true            | 2024-10-05 14:39:46  | C:\Users\nf506\OneDrive\Documents\Java-project\CPIT-305\TestLab\stream1\src\App.java 
+
+LAB3.java                 | true            |  true            |  true            | 2024-10-06 09:01:56  | C:\Users\nf506\OneDrive\Documents\Java-project\CPIT-305\TestLab\stream1\src\LAB3.java 
+
+Readbyte.java             | true            |  true            |  true            | 2024-10-06 08:25:49  | C:\Users\nf506\OneDrive\Documents\Java-project\CPIT-305\TestLab\stream1\src\Readbyte.java 
+
+Splitting.java            | true            |  true            |  true            | 2024-10-06 08:12:15  | C:\Users\nf506\OneDrive\Documents\Java-project\CPIT-305\TestLab\stream1\src\Splitting.java 
+
